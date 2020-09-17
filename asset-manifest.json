@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/just-testing-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/just-testing-react/static/js/main.9c84a43d.chunk.js",
+    "main.js.map": "/just-testing-react/static/js/main.9c84a43d.chunk.js.map",
+    "runtime-main.js": "/just-testing-react/static/js/runtime-main.b796fed1.js",
+    "runtime-main.js.map": "/just-testing-react/static/js/runtime-main.b796fed1.js.map",
+    "static/js/2.37ed94fd.chunk.js": "/just-testing-react/static/js/2.37ed94fd.chunk.js",
+    "static/js/2.37ed94fd.chunk.js.map": "/just-testing-react/static/js/2.37ed94fd.chunk.js.map",
+    "index.html": "/just-testing-react/index.html",
+    "precache-manifest.9a868e809192e38826c710a77dc698fb.js": "/just-testing-react/precache-manifest.9a868e809192e38826c710a77dc698fb.js",
+    "service-worker.js": "/just-testing-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/just-testing-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37ed94fd.chunk.js.LICENSE.txt": "/just-testing-react/static/js/2.37ed94fd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/just-testing-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b796fed1.js",
+    "static/js/2.37ed94fd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9c84a43d.chunk.js"
+  ]
+}
